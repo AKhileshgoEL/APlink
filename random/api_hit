@@ -1,0 +1,337 @@
+{
+  "data": {
+    "id": "cm70bwrj201bcpc1p8xbnfnap",
+    "email": "sarthak.chandra@thefuture.university",
+    "name": "SARTHAK CHANDRA",
+    "age": null,
+    "bio": null,
+    "city": null,
+    "referralCode": "XNpnk",
+    "photo": null,
+    "phone": "7888699526",
+    "countryCode": "+91",
+    "categoryId": null,
+    "metaData": {
+      "lastLogin": "2025-10-24T14:21:55.081Z",
+      "firstLogin": "2025-07-03T14:09:49.040Z"
+    },
+    "crmBlocked": false,
+    "isPhoneVerified": false,
+    "isEmailVerified": false,
+    "isBanned": false,
+    "isVIP": false,
+    "vipExpiry": null,
+    "isGoogleCalendarEnabled": false,
+    "isAstroLearnGoldMember": false,
+    "isTradewiseGoldMember": false,
+    "bankInformationId": null,
+    "type": "STUDENT",
+    "unlockedFeaturesId": null,
+    "lastActive": null,
+    "createdAt": "2025-02-11T10:18:10.910Z",
+    "updatedAt": "2025-10-26T11:25:05.798Z",
+    "achievements": null,
+    "Source": null,
+    "LeadPoachingDate": null,
+    "bootcamps": [
+      {
+        "id": "cm10qbpmz0z8apc7d9ksbcebc",
+        "title": "Decode Option Premiums and Master Market Reversals with Gopal Verma ",
+        "Batches": [
+          {
+            "id": "cm10qlq7v1190pc7d6x2djqo2",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2024-10-10T13:10:00.000Z",
+            "endDateTime": "2024-10-24T13:11:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FBqXXZ0t51Y5dApiivhkky",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/HnxJ5w97qnyKzsGCehvLxO"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-14T18:44:42.145Z",
+            "createdAt": "2024-09-13T13:11:16.220Z"
+          },
+          {
+            "id": "cm276a95f2wi6pcquys1spcem",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2024-11-10T13:30:00.000Z",
+            "endDateTime": "2024-11-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JiIDLEvPFTwGopN7klZA9y",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/KY55q8qaeSn0thrcUzZPNk"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-12-02T18:24:21.216Z",
+            "createdAt": "2024-10-13T05:56:34.131Z"
+          },
+          {
+            "id": "cm3eb08yr08fypc5tk10m87db",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2024-12-10T14:30:00.000Z",
+            "endDateTime": "2024-12-30T18:29:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DFteNaMRYxM4MNlJjlJhWR",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/CRY599bRoO17sMEFAPBvFE"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-01-12T15:58:53.541Z",
+            "createdAt": "2024-11-12T10:22:50.979Z"
+          },
+          {
+            "id": "cm4numc3k8gn8pctgdasn9ozd",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-01-06T12:30:00.000Z",
+            "endDateTime": "2025-01-30T12:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GFjbIp2yrjW8RFuVBVQLsF",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/GFjbIp2yrjW8RFuVBVQLsF"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-01-24T08:41:35.398Z",
+            "createdAt": "2024-12-14T07:21:32.072Z"
+          },
+          {
+            "id": "cm5ozp4sn010spcapevp96uo2",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-02-05T14:30:00.000Z",
+            "endDateTime": "2025-02-28T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DZBdXzn41TSC6pEGI8B1g7",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DZBdXzn41TSC6pEGI8B1g7"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-02-07T18:49:51.307Z",
+            "createdAt": "2025-01-09T07:11:09.191Z"
+          },
+          {
+            "id": "cm6uocsl4095lpcyki81ii8vb",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-03-05T14:30:00.000Z",
+            "endDateTime": "2025-03-28T18:29:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/C1q5FuTPOeeBQqYm1eOJMY",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DipYuSv3fkf7EFSHlvnUWw"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-03-20T12:41:18.939Z",
+            "createdAt": "2025-02-07T11:19:57.098Z"
+          },
+          {
+            "id": "cm7ybzdzx8025pcwnl1bihic9",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-04-06T14:30:00.000Z",
+            "endDateTime": "2025-04-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/G0Ua06ulEvCAelkCoo6WIn",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/LdUMPo4WqfZ7cy9dO4SpD8"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-28T14:28:54.971Z",
+            "createdAt": "2025-03-07T05:24:23.311Z"
+          },
+          {
+            "id": "cm95h0k170uvypc5iw5wdiu8q",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-05-07T14:30:00.000Z",
+            "endDateTime": "2025-05-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FhdnOPRk6rI2v9Rwh9Pobt",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/FhdnOPRk6rI2v9Rwh9Pobt"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-28T14:29:28.169Z",
+            "createdAt": "2025-04-06T09:59:21.436Z"
+          },
+          {
+            "id": "cmagflc8f0uxppcg5a3rk27x5",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-06-08T14:30:00.000Z",
+            "endDateTime": "2025-06-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Jd2eZ6Y9iQRAoRoHA7pxA6",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Jd2eZ6Y9iQRAoRoHA7pxA6"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-03T14:17:19.466Z",
+            "createdAt": "2025-05-09T06:44:42.144Z"
+          },
+          {
+            "id": "cmbvutft517m9pc475bkt87he",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-07-08T14:30:00.000Z",
+            "endDateTime": "2025-07-31T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BYEo5Zp70HE0K7hy8sSBrm",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/BYEo5Zp70HE0K7hy8sSBrm"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-12T07:02:53.380Z",
+            "createdAt": "2025-06-14T06:27:09.242Z"
+          },
+          {
+            "id": "cmdydh15f00lipcujyg3lrch9",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-08-07T14:30:00.000Z",
+            "endDateTime": "2025-08-14T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JhYw1vgRAm4DeLj77Hicor",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/JhYw1vgRAm4DeLj77Hicor"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-14T03:14:59.732Z",
+            "createdAt": "2025-08-05T10:04:20.100Z"
+          },
+          {
+            "id": "cmczwf5t00f4lpck2kqx1xa17",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-08-08T14:30:00.000Z",
+            "endDateTime": "2025-09-25T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FwVpPXgWJ0p498BOiJUZzA?mode=ac_t",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/EtfgzdTfLIA1JdMdMi1njg"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-27T13:46:38.178Z",
+            "createdAt": "2025-07-12T07:02:49.365Z"
+          },
+          {
+            "id": "cmenw29zs0glrpc3fuso9u4ut",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-09-10T14:30:00.000Z",
+            "endDateTime": "2025-09-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HeheypiH2K9IZU9Ig0BHFB",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/EfyBArAtexA1NZPFxe1SWY"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-16T13:51:00.614Z",
+            "createdAt": "2025-08-23T06:38:58.825Z"
+          },
+          {
+            "id": "cmffgcut70bkfpcgb1i1npqvd",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-09-12T14:30:00.000Z",
+            "endDateTime": "2025-09-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FUwoKmYhwIr6W9NDRVC7LO",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/FUwoKmYhwIr6W9NDRVC7LO"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-16T13:51:04.162Z",
+            "createdAt": "2025-09-11T13:36:51.436Z"
+          },
+          {
+            "id": "cmfhtnsz60upnpcemsw8my5e6",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-10-03T14:30:00.000Z",
+            "endDateTime": "2025-10-12T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GIVuo5xeZy5DkuR6R9OPMo",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/GIVuo5xeZy5DkuR6R9OPMo"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Special%20Gopal%20Sir%20Presentation.pdf",
+            "updatedAt": "2025-10-12T09:29:39.076Z",
+            "createdAt": "2025-09-13T05:24:49.636Z"
+          }
+        ],
+        "discountedPrice": 499
+      }
+    ],
+    "Batches": [
+      {
+        "id": "cmdydh15f00lipcujyg3lrch9",
+        "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+        "startDateTime": "2025-08-07T14:30:00.000Z",
+        "endDateTime": "2025-08-14T14:30:00.000Z",
+        "Topics": [
+          "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/JhYw1vgRAm4DeLj77Hicor",
+          "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/JhYw1vgRAm4DeLj77Hicor"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-08-14T03:14:59.732Z",
+        "createdAt": "2025-08-05T10:04:20.100Z"
+      }
+    ]
+  },
+  "message": "findOne"
+}

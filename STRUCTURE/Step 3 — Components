@@ -1,0 +1,17 @@
+🔹 Step 3 — Components
+
+Next send the core UI components:
+
+src/components/LorenSetupCard.jsx
+
+src/components/LMSAccessCard.jsx
+
+src/components/Step1Apps.jsx
+
+src/components/Step2Tutorials.jsx
+
+src/components/Step3LMS.jsx
+
+src/components/Step4Loren.jsx
+
+These need cleanup and consistency with the new flow.

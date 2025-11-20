@@ -1,0 +1,2060 @@
+see, now a new task is if have a url named as "https://api.thefuture.university/users/9988819733/phone" where 9988819733 can be any number that user has entered into the "phone number" in LorenLanding.jsx .
+Now the "https://api.thefuture.university/users/9988819733/phone" give the output as
+"{
+  "data": {
+    "id": "cmcn5y70t0fozpc417jmu1s9a",
+    "email": "support@bootcampx.in",
+    "name": "TFU Akhilesh",
+    "age": null,
+    "bio": null,
+    "city": null,
+    "referralCode": "0sySA",
+    "photo": null,
+    "phone": "9988819733",
+    "countryCode": "+91",
+    "categoryId": null,
+    "metaData": {
+      "lastLogin": "2025-10-10T16:12:52.274Z",
+      "firstLogin": "2025-07-03T09:15:21.544Z"
+    },
+    "crmBlocked": false,
+    "isPhoneVerified": false,
+    "isEmailVerified": false,
+    "isBanned": false,
+    "isVIP": false,
+    "vipExpiry": null,
+    "isGoogleCalendarEnabled": false,
+    "isAstroLearnGoldMember": false,
+    "isTradewiseGoldMember": false,
+    "bankInformationId": null,
+    "type": "STUDENT",
+    "unlockedFeaturesId": null,
+    "lastActive": null,
+    "createdAt": "2025-07-03T09:08:33.678Z",
+    "updatedAt": "2025-10-10T16:12:52.277Z",
+    "achievements": null,
+    "Source": null,
+    "LeadPoachingDate": null,
+    "bootcamps": [
+      {
+        "id": "clnn78sh107ybkv1j6tlveewj",
+        "title": "System Trading Bootcamp With Abhishek Bansal ",
+        "Batches": [
+          {
+            "id": "clunsjuqp00j8pcj4gg30d4e4",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-05-04T13:30:00.000Z",
+            "endDateTime": "2024-06-06T13:30:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup",
+              "Basic Of Option , Strike Price Selection and Option chain analysis",
+              "Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy",
+              "Breakout Trading",
+              "Intro to indicator ",
+              "Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LT0nJUvnzFTKGvF6Ucckbr"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Copy+of+System+new+content+%282%29.pdf",
+            "updatedAt": "2024-10-08T11:51:34.432Z",
+            "createdAt": "2024-04-06T07:46:33.697Z"
+          },
+          {
+            "id": "clvwgefh30hy0pct53eky86d8",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-06-10T13:30:00.000Z",
+            "endDateTime": "2024-07-11T13:30:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GpGmL1oYk2k0ijYJoenjyG"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:51:53.795Z",
+            "createdAt": "2024-05-07T13:56:03.159Z"
+          },
+          {
+            "id": "clxai1xjg1943pczdrrbuszbl",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-07-08T13:30:00.000Z",
+            "endDateTime": "2024-08-08T13:30:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/ILSTB32frJx4IYhaHNFUxD"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:52:21.285Z",
+            "createdAt": "2024-06-11T14:30:48.076Z"
+          },
+          {
+            "id": "clyeipmo70h25pcmeb0iej54x",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-08-09T13:30:00.000Z",
+            "endDateTime": "2024-09-19T07:00:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BNjpN0VcvDh46ujzB4JzMq"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:49:48.686Z",
+            "createdAt": "2024-07-09T14:40:00.775Z"
+          },
+          {
+            "id": "clyrcdrw7003dpcbw3kciuvi3",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-09-09T13:30:00.000Z",
+            "endDateTime": "2024-10-17T07:01:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/B5F1hzrSAT47xjbZfGlQSH"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Abhishek%20Sys%20independence%20day%20%281%29.pdf",
+            "updatedAt": "2024-10-08T11:50:36.614Z",
+            "createdAt": "2024-07-18T14:03:50.226Z"
+          },
+          {
+            "id": "cm1dlvu4c2xy2pc106g8xjrmf",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-09-22T13:25:00.000Z",
+            "endDateTime": "2024-09-22T17:24:00.000Z",
+            "Topics": [
+              "Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator,Live Class ,Live Class ,Oi Data Reading,Candle Patterns & Price Action Patterns ,Live Class ,Live Class "
+            ],
+            "active": true,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-09-22T13:20:17.359Z",
+            "createdAt": "2024-09-22T13:20:10.044Z"
+          },
+          {
+            "id": "cm1hhzc282wyqpc8ceazm27j7",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-09-25T06:41:00.000Z",
+            "endDateTime": "2024-09-30T08:41:00.000Z",
+            "Topics": [
+              "Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator,Live Class ,Live Class ,tests ,Oi Data Reading,Candle Patterns & Price Action Patterns ,Live Class ,Live Class "
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-09-25T06:41:59.505Z",
+            "createdAt": "2024-09-25T06:41:59.505Z"
+          }
+        ],
+        "discountedPrice": 3999
+      },
+      {
+        "id": "clrluxl5101a8pcei3jgvtxi8",
+        "title": "The Ultimate Bootcamp for Intraday & Scalping with Pankaj Sahu ",
+        "Batches": [
+          {
+            "id": "clunvz80g0081pcdq8lwn8qpu",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-04-28T13:30:00.000Z",
+            "endDateTime": "2024-05-23T13:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CDcVfVaxplhE9bYqt27M9Q"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/pankaj_enrollmentbrochure.pdf",
+            "updatedAt": "2024-10-06T13:09:05.797Z",
+            "createdAt": "2024-04-06T09:22:29.584Z"
+          },
+          {
+            "id": "clvlv6e1v0pocpcv7mromt51a",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-05-21T13:30:00.000Z",
+            "endDateTime": "2024-05-23T13:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Sunday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/KeU9XejsLeBBC3tcNH4a2l"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%20Sahu%20MASTERCLASS.pdf",
+            "updatedAt": "2024-10-06T13:08:31.459Z",
+            "createdAt": "2024-04-30T04:04:14.347Z"
+          },
+          {
+            "id": "clwrlv49d001fpcbpxwl67c51",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-06-23T06:29:00.000Z",
+            "endDateTime": "2024-06-24T06:29:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Sunday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/KcSkDl7Kr6eK8bj7SnHzDG"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%20Sahu%20MASTERCLASS.pdf",
+            "updatedAt": "2024-10-06T13:08:05.174Z",
+            "createdAt": "2024-05-29T09:09:51.313Z"
+          },
+          {
+            "id": "clxsokfxx050dpcx5tlcvknck",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-07-25T12:30:00.000Z",
+            "endDateTime": "2024-07-26T12:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Sunday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DSZ9Ak4IHWlA5a4pfgEQ8Z"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj+Sahu+MASTERCLASS+%287%29.pdf",
+            "updatedAt": "2024-10-06T13:07:38.786Z",
+            "createdAt": "2024-06-24T07:53:00.598Z"
+          },
+          {
+            "id": "clz2nd92b030ypcoxwt14ej8a",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-08-26T12:30:00.000Z",
+            "endDateTime": "2024-08-27T12:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Sunday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LVCzeyK1DdX5C3JLOFMVp1"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj+Sahu+MASTERCLASS+%288%29.pdf",
+            "updatedAt": "2024-10-06T13:07:06.764Z",
+            "createdAt": "2024-07-26T11:56:49.571Z"
+          },
+          {
+            "id": "cm0nw9i9j00i1pce9bnp5lqlr",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-09-04T13:25:00.000Z",
+            "endDateTime": "2024-09-05T13:28:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Monday"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-09-04T13:28:43.430Z",
+            "createdAt": "2024-09-04T13:28:43.430Z"
+          },
+          {
+            "id": "cm0dwkjot00grpcgjepm7eswi",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-09-23T12:30:00.000Z",
+            "endDateTime": "2024-10-28T13:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Monday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Ch47ZL4hNVnBKFcfYrStRI"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj+Sahu+MASTERCLASS+%286%29.pdf",
+            "updatedAt": "2024-10-06T13:06:18.433Z",
+            "createdAt": "2024-08-28T13:39:36.749Z"
+          },
+          {
+            "id": "cm1htmn7w0vwbpc9b4tx009q1",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-09-26T12:30:00.000Z",
+            "endDateTime": "2024-09-27T12:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Monday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Ch47ZL4hNVnBKFcfYrStRI"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-06T13:06:11.423Z",
+            "createdAt": "2024-09-25T12:08:02.811Z"
+          },
+          {
+            "id": "cm1m2ibeb01atpc23950nppvp",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-10-21T12:30:00.000Z",
+            "endDateTime": "2024-11-28T12:30:00.000Z",
+            "Topics": [
+              "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Monday"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HMMBgNiwhXPHIBx1r6v0w3"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj+Sahu+MASTERCLASS+%286%29.pdf",
+            "updatedAt": "2025-03-06T12:54:01.710Z",
+            "createdAt": "2024-09-28T11:27:42.117Z"
+          },
+          {
+            "id": "cm2kg4zxb0psqpccm4lko3047",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-11-24T12:30:00.000Z",
+            "endDateTime": "2024-12-24T12:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "classJoiningLink": "https://tfu.bio/bx-join-ko3047"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS%2B%286%29+%281%29.pdf",
+            "updatedAt": "2024-11-24T11:40:04.760Z",
+            "createdAt": "2024-10-22T12:53:25.323Z"
+          },
+          {
+            "id": "cm3vipdv400cdpcvoq0fmd5jd",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2024-12-22T13:30:00.000Z",
+            "endDateTime": "2025-01-24T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/L7Moc1JJ6no38Id8R69Lw0",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/L7Moc1JJ6no38Id8R69Lw0"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS%2B%286%29%2B%281%29.pdf",
+            "updatedAt": "2024-12-25T10:10:04.331Z",
+            "createdAt": "2024-11-24T11:30:26.033Z"
+          },
+          {
+            "id": "cm53qfycj1dxjpcfunglj3k8s",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-01-25T13:30:00.000Z",
+            "endDateTime": "2025-02-25T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/EJZfUylMumO3f5qtAaa2ee",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/EJZfUylMumO3f5qtAaa2ee"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj+Sahu+MASTERCLASS+%288%29.pdf",
+            "updatedAt": "2025-01-25T12:12:00.890Z",
+            "createdAt": "2024-12-25T10:08:54.677Z"
+          },
+          {
+            "id": "cm6c5hba00ltrpcvnwcbu1p2k",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-01-30T13:30:00.000Z",
+            "endDateTime": "2025-03-26T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "classJoiningLink": "https://tfu.bio/bx-join-bu1p2k"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS%2B%288%29.pdf",
+            "updatedAt": "2025-03-07T09:12:28.877Z",
+            "createdAt": "2025-01-25T12:11:44.075Z"
+          },
+          {
+            "id": "cm7yk4mwq01h0pcil2kj6f7xf",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-03-28T13:30:00.000Z",
+            "endDateTime": "2025-04-09T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/D7tzCdxjy5lDBe8cmVOnkp",
+              "classJoiningLink": "https://tfu.bio/bx-join-j6f7xf",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/D7tzCdxjy5lDBe8cmVOnkp"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj+Sahu+MASTERCLASS.pdf",
+            "updatedAt": "2025-03-29T07:10:09.978Z",
+            "createdAt": "2025-03-07T09:12:25.067Z"
+          },
+          {
+            "id": "cm8pvlxyo2zk6pc3r1wf0znta",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-04-24T13:30:00.000Z",
+            "endDateTime": "2025-05-27T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JNgPHpRN7zu01STn3m5f5T",
+              "classJoiningLink": "https://tfu.bio/bx-join-f0znta",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/JNgPHpRN7zu01STn3m5f5T"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS+%281%29.pdf",
+            "updatedAt": "2025-04-24T07:17:23.532Z",
+            "createdAt": "2025-03-26T12:03:35.073Z"
+          },
+          {
+            "id": "cm9v15jeb1pkfpc8we8f9rvyw",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-05-25T13:30:00.000Z",
+            "endDateTime": "2025-06-25T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/KwcFpEQFo1q3tSVo7TM2r2",
+              "classJoiningLink": "https://tfu.bio/bx-join-f9rvyw",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/KwcFpEQFo1q3tSVo7TM2r2"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS%2B%281%29.pdf",
+            "updatedAt": "2025-05-27T06:43:12.830Z",
+            "createdAt": "2025-04-24T07:17:20.611Z"
+          },
+          {
+            "id": "cmb65gom70rbupcizo33gn8rf",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-06-23T13:30:00.000Z",
+            "endDateTime": "2025-06-28T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CRvR5SldMpk4dYthcU0Tz1",
+              "classJoiningLink": "https://tfu.bio/join-bx-scalping-with-pankaj?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/KUZSvQcE8GeFWXW9ibThHj"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-06-28T14:14:37.937Z",
+            "createdAt": "2025-05-27T06:43:09.328Z"
+          },
+          {
+            "id": "cmcbwelan003rpcvmdn2on23f",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-07-20T13:30:00.000Z",
+            "endDateTime": "2025-07-30T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HzeA8S4XRNm0WzJK0OfJZA",
+              "classJoiningLink": "https://tfu.bio/join-bx-scalping-with-pankaj?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/HzeA8S4XRNm0WzJK0OfJZA"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS%2B%281%29.pdf",
+            "updatedAt": "2025-08-02T14:36:43.694Z",
+            "createdAt": "2025-06-25T11:55:54.559Z"
+          },
+          {
+            "id": "cmdisk5s70r1kpc4c5w67snzk",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-08-16T12:30:00.000Z",
+            "endDateTime": "2025-08-25T12:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Glc2lcl0Ww6IddIYOjBHkM",
+              "classJoiningLink": "https://tfu.bio/bx-join-67snzk",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/E0RRqA1psZ1A6LaRqDgjX7?mode=ac_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-24T13:02:02.726Z",
+            "createdAt": "2025-07-25T12:22:21.496Z"
+          },
+          {
+            "id": "cmepp6okw0d9ipc0xcluo6re0",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-09-16T13:30:00.000Z",
+            "endDateTime": "2025-09-24T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JpAvTti2ZD30ou2Ryeypa8?mode=ems_copy_c",
+              "classJoiningLink": "https://tfu.bio/join-bx-scalping-with-pankaj?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/J4sI29XWOF2D6gdOAW6mei"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-19T13:09:15.115Z",
+            "createdAt": "2025-08-24T13:01:59.393Z"
+          },
+          {
+            "id": "cmfcmqb920i7spcbkvn835gl8",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-09-19T13:30:00.000Z",
+            "endDateTime": "2025-09-22T11:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BNt7uRkCYTHJvJfyTL9yOM?mode=ems_copy_t",
+              "classJoiningLink": "https://tfu.bio/bx-join-835gl8",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/BNt7uRkCYTHJvJfyTL9yOM?mode=ems_copy_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-22T12:08:49.996Z",
+            "createdAt": "2025-09-09T14:11:58.439Z"
+          },
+          {
+            "id": "cmfsblydz29mepcnt0yfzwxpm",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-09-22T13:30:00.000Z",
+            "endDateTime": "2025-10-04T13:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": false,
+            "metaData": {
+              "classJoiningLink": "https://tfu.bio/bx-join-fzwxpm"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-22T12:07:43.222Z",
+            "createdAt": "2025-09-20T13:44:58.185Z"
+          },
+          {
+            "id": "cmfv303153hi2pcntvix6wc5p",
+            "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+            "startDateTime": "2025-10-05T11:31:00.000Z",
+            "endDateTime": "2025-10-24T11:30:00.000Z",
+            "Topics": [
+              "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Ia1WiKEbJDbDD4XK5pyQLn",
+              "classJoiningLink": "https://tfu.bio/bx-join-x6wc5p",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Ia1WiKEbJDbDD4XK5pyQLn"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-10-07T13:42:24.121Z",
+            "createdAt": "2025-09-22T12:07:19.370Z"
+          }
+        ],
+        "discountedPrice": 5996
+      },
+      {
+        "id": "clrwb7zya07tvpc20734hihvt",
+        "title": "Ultimate Options Trading with Chirag Jain",
+        "Batches": [
+          {
+            "id": "cluo2ycax0ewepcunjikudv5j",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-04-08T09:00:00.000Z",
+            "endDateTime": "2024-04-30T09:00:00.000Z",
+            "Topics": [
+              "Strategy I",
+              "Option Chain analysis",
+              "Strategy Buildup",
+              "Strategy III",
+              "Strategy III",
+              "Case Studies",
+              "Strategy II",
+              "Questions & Answers",
+              "Explanation of Calls & Puts"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/I45jmqHkYLVDk7SEM2CSTG"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-06T13:24:11.605Z",
+            "createdAt": "2024-04-06T12:37:45.801Z"
+          },
+          {
+            "id": "cluxrq1yr0fnkpc1yyj2xjy3v",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-05-02T08:30:00.000Z",
+            "endDateTime": "2024-05-19T15:30:00.000Z",
+            "Topics": [
+              "Strategy I",
+              "Option Chain analysis",
+              "Strategy Buildup",
+              "Strategy III",
+              "Strategy III",
+              "Case Studies",
+              "Strategy II",
+              "Questions & Answers",
+              "Explanation of Calls & Puts"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/EbovxAaAnl7CrvrNu0sO2y"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/CHIRAG+JAIN+%283%29.pdf",
+            "updatedAt": "2024-10-06T13:23:50.730Z",
+            "createdAt": "2024-04-13T07:21:05.140Z"
+          },
+          {
+            "id": "clwkdcf8s02tapc48dr21w5se",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-05-24T09:00:00.000Z",
+            "endDateTime": "2024-06-30T13:30:00.000Z",
+            "Topics": [
+              "Strategy I,Option Chain analysis,Strategy Buildup,Strategy III,Strategy III,Case Studies,Strategy II,Questions & Answers,Explanation of Calls & Puts,Live Trading Class"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/EbovxAaAnl7CrvrNu0sO2y"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-06T13:23:38.841Z",
+            "createdAt": "2024-05-24T07:36:58.924Z"
+          },
+          {
+            "id": "clvs2lpux092mpc7h6gnav22d",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-06-04T13:30:00.000Z",
+            "endDateTime": "2024-06-28T13:30:00.000Z",
+            "Topics": [
+              "Strategy I,Option Chain analysis,Strategy Buildup,Strategy III,Strategy III,Case Studies,Strategy II,Questions & Answers,Explanation of Calls & Puts,Live Trading Class"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CqMrBHewvYx6njpD7clXoT"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-06T13:21:46.530Z",
+            "createdAt": "2024-05-04T12:18:43.700Z"
+          },
+          {
+            "id": "clx1w3b650qaapckz5xrgvxy4",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-06-20T09:00:00.000Z",
+            "endDateTime": "2024-07-19T13:30:00.000Z",
+            "Topics": [
+              "Strategy I,Option Chain analysis,Strategy Buildup,Strategy III,Strategy III,Case Studies,Strategy II,Questions & Answers,Explanation of Calls & Puts,Live Trading Class"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BPg8cO7x32WJ8gRndO0SHW"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-06T13:21:21.834Z",
+            "createdAt": "2024-06-05T13:53:51.416Z"
+          },
+          {
+            "id": "cly03c2z30i2lpcytxt48fwmg",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-07-25T09:00:00.000Z",
+            "endDateTime": "2024-08-13T13:30:00.000Z",
+            "Topics": [
+              "Strategy I,Option Chain analysis,Strategy Buildup,Strategy III,Strategy III,Case Studies,Strategy II,Questions & Answers,Live Trading Class"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LmNFKYG1zDi0QxZMFNqAMI"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-06T13:16:40.804Z",
+            "createdAt": "2024-06-29T12:20:48.015Z"
+          },
+          {
+            "id": "clzcnk5mn02lkpc969cn56tgh",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-08-31T13:30:00.000Z",
+            "endDateTime": "2024-09-28T13:30:00.000Z",
+            "Topics": [
+              "Market View and Range Calculation,Option Chain analysis,Strategy Buildup,Strategy IV,Re-entry and selection Trap,Case Studies,Five Different Trading Setups,Questions & Answers,Live Trading Class,Basics of options,Doubts and resolution of worst cases in I and II,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-10-13T12:24:16.032Z",
+            "createdAt": "2024-08-02T11:59:53.449Z"
+          },
+          {
+            "id": "cm0qvkdye2858pc3txbplyr03",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-09-30T09:00:00.000Z",
+            "endDateTime": "2024-10-30T13:30:00.000Z",
+            "Topics": [
+              "Market View and Range Calculation,Option Chain analysis,Strategy Buildup,Strategy IV,Re-entry and selection Trap,Case Studies,Five Different Trading Setups,Questions & Answers,Live Trading Class,Basics of options,Doubts and resolution of worst cases in I and II,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JrOlKAU2yOc3qE2Q1XOOrr",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-12-01T21:48:54.111Z",
+            "createdAt": "2024-09-06T15:32:29.990Z"
+          },
+          {
+            "id": "cm1w7s8mf2k4qpc56fgamoytf",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-10-28T09:00:00.000Z",
+            "endDateTime": "2024-11-30T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LSzQdly9gDJ1YW6tNzKEtD",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxdirect"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-11-09T13:26:29.936Z",
+            "createdAt": "2024-10-05T13:53:04.920Z"
+          },
+          {
+            "id": "cm38sjpem1p0gpcxkk3fs4cyi",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-12-02T08:30:00.000Z",
+            "endDateTime": "2025-01-31T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CGM8L8ZSQLh6AArm1WPvmt"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-12-20T13:41:57.880Z",
+            "createdAt": "2024-11-08T13:47:15.146Z"
+          },
+          {
+            "id": "cm4wsrz551ck5pcdto79np1d3",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2024-12-30T08:30:00.000Z",
+            "endDateTime": "2025-03-20T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HwaJqhMQhMhBZpR3IGtmo1",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/GtDpHFxZF1U7izPmSlHLta"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-01-30T12:13:10.648Z",
+            "createdAt": "2024-12-20T13:39:51.594Z"
+          },
+          {
+            "id": "cm6jaqbpl0wdtpcmpb55pq64f",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-02-18T13:30:00.000Z",
+            "endDateTime": "2025-03-31T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Iua2xRZvjMb9sgEGcad19n",
+              "classJoiningLink": "https://tfu.bio/bx-join-5pq64f",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Iua2xRZvjMb9sgEGcad19n"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-28T14:34:02.037Z",
+            "createdAt": "2025-01-30T12:13:05.852Z"
+          },
+          {
+            "id": "cm7qb258g01dcpcxb862kuul4",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-04-18T13:30:00.000Z",
+            "endDateTime": "2025-05-23T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/EYSfYlSBks74m5GGoiXzbB",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DTiI69ywQI53slfxt8pyoI"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-04-20T08:37:12.851Z",
+            "createdAt": "2025-03-01T14:36:22.891Z"
+          },
+          {
+            "id": "cm9k5hiz70xa2pclgskp1y9xj",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-05-11T13:30:00.000Z",
+            "endDateTime": "2025-06-12T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Hw7MQoYwTHtB5iNcA2aYNk",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Hw7MQoYwTHtB5iNcA2aYNk"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-28T14:32:56.773Z",
+            "createdAt": "2025-04-16T16:33:10.468Z"
+          },
+          {
+            "id": "cmao2rykf0546pc87cl4l31zc",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-06-11T13:30:00.000Z",
+            "endDateTime": "2025-07-15T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DE0McxTPIVg2cLjveuuK0F",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/JqR5LnnNQpQ27NZeFc5Aqi"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-06-17T11:07:17.303Z",
+            "createdAt": "2025-05-14T15:08:05.424Z"
+          },
+          {
+            "id": "cmc0er2ja2f6zpclg9f597zg4",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-07-10T12:30:00.000Z",
+            "endDateTime": "2025-08-07T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HtUgPv8xei93Ob6JZaMlXC",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/L8rKyS4Ja4155yUO9gw9GS"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Chirag+Sir+Presentation.pdf",
+            "updatedAt": "2025-07-16T12:53:21.670Z",
+            "createdAt": "2025-06-17T10:56:15.745Z"
+          },
+          {
+            "id": "cmd5ypa030ze6pcjswyu807kj",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-08-03T12:52:00.000Z",
+            "endDateTime": "2025-09-04T14:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CWUeDnmrSUUIPqLVuC2bvi?mode=r_c",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/JqUXcYbPOLo9VtdjNDXeME"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-11T17:56:08.745Z",
+            "createdAt": "2025-07-16T12:53:17.646Z"
+          },
+          {
+            "id": "cme0x0zbe07f6pcq16rp3x4tx",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-09-10T04:46:00.000Z",
+            "endDateTime": "2025-10-11T04:47:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/EkgGHW3gXhB9EhbmQ1x6IQ?mode=ems_copy_t",
+              "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/J4sI29XWOF2D6gdOAW6mei?mode=ac_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-19T13:09:27.887Z",
+            "createdAt": "2025-08-07T04:47:15.900Z"
+          },
+          {
+            "id": "cmfo2gnty0lfxpcnj1qdqpjg7",
+            "bootcampId": "clrwb7zya07tvpc20734hihvt",
+            "startDateTime": "2025-10-10T13:30:00.000Z",
+            "endDateTime": "2025-11-17T13:30:00.000Z",
+            "Topics": [
+              "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Hszf9Gutfhp17jRh1fqeF5?mode=ems_copy_t",
+              "classJoiningLink": "https://tfu.bio/bx-join-dqpjg7",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Hszf9Gutfhp17jRh1fqeF5?mode=ems_copy_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-10-08T13:00:16.576Z",
+            "createdAt": "2025-09-17T14:17:49.975Z"
+          }
+        ],
+        "discountedPrice": 6496
+      },
+      {
+        "id": "cltagb6w200yxpcsuca035nv4",
+        "title": "The Holy Grail of Trading with Balakrishna ",
+        "Batches": [
+          {
+            "id": "clunk9z9901ijpcgp5rxvusre",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-04-23T06:30:00.000Z",
+            "endDateTime": "2024-05-20T06:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ",
+              "Days structure",
+              "Trading, Entries, Exits",
+              "Order flow construction",
+              " Types of Delta ",
+              "Secret Strategies ",
+              "Order Flow Analysis"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-04-24T11:09:18.882Z",
+            "createdAt": "2024-04-06T03:54:56.043Z"
+          },
+          {
+            "id": "clvdppuzf07p5pc18wmsji2dg",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-05-21T13:00:00.000Z",
+            "endDateTime": "2024-06-15T16:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ",
+              "Days structure",
+              "Trading, Entries, Exits",
+              "Order flow construction",
+              " Types of Delta ",
+              "Secret Strategies ",
+              "Order Flow Analysis"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Balakrishna%20PPT.pdf",
+            "updatedAt": "2024-06-14T11:07:08.407Z",
+            "createdAt": "2024-04-24T11:09:15.676Z"
+          },
+          {
+            "id": "clwhresvu0av7pchzk5x6xfa8",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-06-18T12:30:00.000Z",
+            "endDateTime": "2024-07-11T17:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Days structure,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-06-19T12:07:29.185Z",
+            "createdAt": "2024-05-22T11:47:26.011Z"
+          },
+          {
+            "id": "clxh87c9g1vq0pc7up4ye3zek",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-07-17T12:30:00.000Z",
+            "endDateTime": "2024-08-08T16:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Days structure,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-09-01T15:18:16.315Z",
+            "createdAt": "2024-06-16T07:29:27.509Z"
+          },
+          {
+            "id": "clytukdbc15fjpc6l1qsq85uc",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-08-23T13:30:00.000Z",
+            "endDateTime": "2024-09-07T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Days structure,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Independence+day+Balakrishna+PPT.pdf",
+            "updatedAt": "2024-09-20T22:58:47.135Z",
+            "createdAt": "2024-07-20T08:08:23.401Z"
+          },
+          {
+            "id": "cm03vihod08hapczh5s0acxvf",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-09-20T13:30:00.000Z",
+            "endDateTime": "2024-10-05T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-10-05T11:52:44.514Z",
+            "createdAt": "2024-08-21T13:12:19.439Z"
+          },
+          {
+            "id": "cm1axnasf2ir2pcqmgk3btkqm",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-10-15T13:30:00.000Z",
+            "endDateTime": "2024-10-26T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BaeIrPztSNzCH2wrkaUmJo",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=lms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/If59vqEWS5UAKXSMty8HJ7"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-11-30T20:17:05.453Z",
+            "createdAt": "2024-09-20T16:26:08.590Z"
+          },
+          {
+            "id": "cm2bwtrst1j33pcpu01jkgadk",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-11-21T13:30:00.000Z",
+            "endDateTime": "2024-12-10T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Cz4MxWOyaU93F4B19qruhP",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/I05wsn04f4RHveg1vlMuxB"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-12-04T11:42:56.779Z",
+            "createdAt": "2024-10-16T13:30:39.485Z"
+          },
+          {
+            "id": "cm3srchut0509pc5lj3jvnxx7",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2024-12-20T13:10:00.000Z",
+            "endDateTime": "2025-01-10T13:10:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Kk0pgHvBOlV9ywbQnEuD5Q",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/LqKUw8NlwjUDoUd6I08spf"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-01-12T06:15:50.073Z",
+            "createdAt": "2024-11-22T13:09:02.679Z"
+          },
+          {
+            "id": "cm4xwgtpn4gsmpcdtc0txwtz3",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-01-19T13:30:00.000Z",
+            "endDateTime": "2025-02-04T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/C5Y37TvG0EkI5xfJXEpIMm",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/IENZNL7APEg1MQYjApkQ2W"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-02-02T09:52:14.145Z",
+            "createdAt": "2024-12-21T08:10:55.980Z"
+          },
+          {
+            "id": "cm5tbqzl235jypc3387w0y0ku",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-02-18T13:30:00.000Z",
+            "endDateTime": "2025-03-15T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/EgKhKbjMAGAGYBygcbO8NG",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/EKJoeebyZUg12bJmr8x5Gj"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-02-23T13:14:43.531Z",
+            "createdAt": "2025-01-12T07:59:35.832Z"
+          },
+          {
+            "id": "cm65ladjd2wdspcifjmlut8ee",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-03-18T13:30:00.000Z",
+            "endDateTime": "2025-04-12T13:30:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Jtntmu4KLyhLkGPb7y4doO",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Jtntmu4KLyhLkGPb7y4doO"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-03-23T18:13:02.371Z",
+            "createdAt": "2025-01-20T21:59:51.034Z"
+          },
+          {
+            "id": "cm8hep8l20s64pc51x32whgm1",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-04-27T13:30:00.000Z",
+            "endDateTime": "2025-05-16T18:29:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Dki84snxmiCAFd3akFkAIt",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Dki84snxmiCAFd3akFkAIt"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-04-30T14:09:14.126Z",
+            "createdAt": "2025-03-20T13:48:05.915Z"
+          },
+          {
+            "id": "cm9mik0u800n5pc4xos4dfdgi",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-06-03T13:30:00.000Z",
+            "endDateTime": "2025-06-20T18:29:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BR4wCDzfAldBk6ziXxJIMn",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/HbXMDuqrHP35LM71jd2ZHF"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-06-04T14:05:34.401Z",
+            "createdAt": "2025-04-18T08:14:34.288Z"
+          },
+          {
+            "id": "cmb6nyuyf05yhpcrv9xy69nac",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-07-01T01:30:00.000Z",
+            "endDateTime": "2025-07-29T18:29:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LKvOhctoLWrJneMr98wJKv",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/HbXMDuqrHP35LM71jd2ZHF"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-27T16:13:30.200Z",
+            "createdAt": "2025-05-27T15:21:10.441Z"
+          },
+          {
+            "id": "cmcm0ts5506tvpc4s2vdjduib",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-08-05T13:30:00.000Z",
+            "endDateTime": "2025-08-29T18:29:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LFXYnkmmu2z0XxAR4uobFQ",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/LFXYnkmmu2z0XxAR4uobFQ"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-13T14:32:04.623Z",
+            "createdAt": "2025-07-02T13:57:23.498Z"
+          },
+          {
+            "id": "cme01jhgq0099pcova50pbdew",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-09-02T13:30:00.000Z",
+            "endDateTime": "2025-09-30T18:29:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GnpnRtbdXcR9tbqvLBOXSS",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/FQGxIk4MKk3C7wgPAfC5e6?mode=ac_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-07T13:20:26.335Z",
+            "createdAt": "2025-08-06T14:05:51.515Z"
+          },
+          {
+            "id": "cmeu26ttk0a6zpcbhygx434ml",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-10-03T13:30:00.000Z",
+            "endDateTime": "2025-10-30T18:00:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GucM49fvq7FAprWg1GCUpJ",
+              "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/IiSgng8Jhm38aP0e3juQLK"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-10-09T16:12:35.961Z",
+            "createdAt": "2025-08-27T14:17:05.897Z"
+          },
+          {
+            "id": "cmgganzyp29mppcujseo0dgxw",
+            "bootcampId": "cltagb6w200yxpcsuca035nv4",
+            "startDateTime": "2025-11-01T14:30:00.000Z",
+            "endDateTime": "2025-11-30T18:29:00.000Z",
+            "Topics": [
+              "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Fqme4taBOnaG5nZ0SQT2Gq",
+              "classJoiningLink": "https://tfu.bio/bx-join-o0dgxw"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-10-07T12:10:52.318Z",
+            "createdAt": "2025-10-07T08:25:02.147Z"
+          }
+        ],
+        "discountedPrice": 6999
+      },
+      {
+        "id": "cluf6aeq901dlpcl0pn3flbqc",
+        "title": "ADVANCE ADJUSTMENTS",
+        "Batches": [
+          {
+            "id": "clwgep1l71uvapcom2nkymy1j",
+            "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+            "startDateTime": "2024-06-13T13:30:00.000Z",
+            "endDateTime": "2024-09-09T13:30:00.000Z",
+            "Topics": [
+              "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JFwhnlGg3J6DbAxgM22O4X"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:29:26.004Z",
+            "createdAt": "2024-05-21T13:03:42.667Z"
+          },
+          {
+            "id": "cm0i0xvx10j87pc10jdv2ytbc",
+            "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+            "startDateTime": "2024-11-04T13:30:00.000Z",
+            "endDateTime": "2025-04-30T13:30:00.000Z",
+            "Topics": [
+              "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DPyVsTehOmbFmtOQqQPntC"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-11-14T12:25:44.358Z",
+            "createdAt": "2024-08-31T10:53:02.278Z"
+          },
+          {
+            "id": "cm3ha239n78blpc70yewcykqq",
+            "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+            "startDateTime": "2024-11-05T13:30:00.000Z",
+            "endDateTime": "2025-05-01T13:30:00.000Z",
+            "Topics": [
+              "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2025-04-27T07:08:54.843Z",
+            "createdAt": "2024-11-14T12:19:35.805Z"
+          },
+          {
+            "id": "cm9zb606f20e6pcc61eoorhdz",
+            "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+            "startDateTime": "2025-05-11T13:30:00.000Z",
+            "endDateTime": "2025-07-31T13:30:00.000Z",
+            "Topics": [
+              "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CM6FkLz5Cgt2iZK4qwF6HZ",
+              "classJoiningLink": "https://tfu.bio/join-bx-advance-adjustment-with-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DzE59jVWguS5AMdpIb42g9"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-25T11:23:53.780Z",
+            "createdAt": "2025-04-27T07:08:43.224Z"
+          },
+          {
+            "id": "cmcn9jvra0hnqpc422g2jfvl4",
+            "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+            "startDateTime": "2025-08-20T13:30:00.000Z",
+            "endDateTime": "2026-02-20T13:30:00.000Z",
+            "Topics": [
+              "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/CP1P7fzPmf6EclSEubkzkt?mode=ems_copy_t",
+              "classJoiningLink": "https://tfu.bio/join-bx-advance-adjustment-with-chirag?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DwyGdgHuyPd47CW4pI73I0?mode=ac_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-05T08:37:00.175Z",
+            "createdAt": "2025-07-03T10:49:24.342Z"
+          }
+        ],
+        "discountedPrice": 17999
+      },
+      {
+        "id": "cm10qbpmz0z8apc7d9ksbcebc",
+        "title": "Decode Option Premiums and Master Market Reversals with Gopal Verma ",
+        "Batches": [
+          {
+            "id": "cm10qlq7v1190pc7d6x2djqo2",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2024-10-10T13:10:00.000Z",
+            "endDateTime": "2024-10-24T13:11:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FBqXXZ0t51Y5dApiivhkky",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/HnxJ5w97qnyKzsGCehvLxO"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-14T18:44:42.145Z",
+            "createdAt": "2024-09-13T13:11:16.220Z"
+          },
+          {
+            "id": "cm276a95f2wi6pcquys1spcem",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2024-11-10T13:30:00.000Z",
+            "endDateTime": "2024-11-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JiIDLEvPFTwGopN7klZA9y",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/KY55q8qaeSn0thrcUzZPNk"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-12-02T18:24:21.216Z",
+            "createdAt": "2024-10-13T05:56:34.131Z"
+          },
+          {
+            "id": "cm3eb08yr08fypc5tk10m87db",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2024-12-10T14:30:00.000Z",
+            "endDateTime": "2024-12-30T18:29:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DFteNaMRYxM4MNlJjlJhWR",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/CRY599bRoO17sMEFAPBvFE"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-01-12T15:58:53.541Z",
+            "createdAt": "2024-11-12T10:22:50.979Z"
+          },
+          {
+            "id": "cm4numc3k8gn8pctgdasn9ozd",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-01-06T12:30:00.000Z",
+            "endDateTime": "2025-01-30T12:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GFjbIp2yrjW8RFuVBVQLsF",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/GFjbIp2yrjW8RFuVBVQLsF"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-01-24T08:41:35.398Z",
+            "createdAt": "2024-12-14T07:21:32.072Z"
+          },
+          {
+            "id": "cm5ozp4sn010spcapevp96uo2",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-02-05T14:30:00.000Z",
+            "endDateTime": "2025-02-28T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/DZBdXzn41TSC6pEGI8B1g7",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DZBdXzn41TSC6pEGI8B1g7"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-02-07T18:49:51.307Z",
+            "createdAt": "2025-01-09T07:11:09.191Z"
+          },
+          {
+            "id": "cm6uocsl4095lpcyki81ii8vb",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-03-05T14:30:00.000Z",
+            "endDateTime": "2025-03-28T18:29:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/C1q5FuTPOeeBQqYm1eOJMY",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/DipYuSv3fkf7EFSHlvnUWw"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-03-20T12:41:18.939Z",
+            "createdAt": "2025-02-07T11:19:57.098Z"
+          },
+          {
+            "id": "cm7ybzdzx8025pcwnl1bihic9",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-04-06T14:30:00.000Z",
+            "endDateTime": "2025-04-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/G0Ua06ulEvCAelkCoo6WIn",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/LdUMPo4WqfZ7cy9dO4SpD8"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-28T14:28:54.971Z",
+            "createdAt": "2025-03-07T05:24:23.311Z"
+          },
+          {
+            "id": "cm95h0k170uvypc5iw5wdiu8q",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-05-07T14:30:00.000Z",
+            "endDateTime": "2025-05-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FhdnOPRk6rI2v9Rwh9Pobt",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/FhdnOPRk6rI2v9Rwh9Pobt"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-28T14:29:28.169Z",
+            "createdAt": "2025-04-06T09:59:21.436Z"
+          },
+          {
+            "id": "cmagflc8f0uxppcg5a3rk27x5",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-06-08T14:30:00.000Z",
+            "endDateTime": "2025-06-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Jd2eZ6Y9iQRAoRoHA7pxA6",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/Jd2eZ6Y9iQRAoRoHA7pxA6"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-03T14:17:19.466Z",
+            "createdAt": "2025-05-09T06:44:42.144Z"
+          },
+          {
+            "id": "cmbvutft517m9pc475bkt87he",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-07-08T14:30:00.000Z",
+            "endDateTime": "2025-07-31T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BYEo5Zp70HE0K7hy8sSBrm",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/BYEo5Zp70HE0K7hy8sSBrm"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-12T07:02:53.380Z",
+            "createdAt": "2025-06-14T06:27:09.242Z"
+          },
+          {
+            "id": "cmdydh15f00lipcujyg3lrch9",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-08-07T14:30:00.000Z",
+            "endDateTime": "2025-08-14T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/JhYw1vgRAm4DeLj77Hicor",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/JhYw1vgRAm4DeLj77Hicor"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-14T03:14:59.732Z",
+            "createdAt": "2025-08-05T10:04:20.100Z"
+          },
+          {
+            "id": "cmczwf5t00f4lpck2kqx1xa17",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-08-08T14:30:00.000Z",
+            "endDateTime": "2025-09-25T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FwVpPXgWJ0p498BOiJUZzA?mode=ac_t",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/EtfgzdTfLIA1JdMdMi1njg"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-27T13:46:38.178Z",
+            "createdAt": "2025-07-12T07:02:49.365Z"
+          },
+          {
+            "id": "cmenw29zs0glrpc3fuso9u4ut",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-09-10T14:30:00.000Z",
+            "endDateTime": "2025-09-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HeheypiH2K9IZU9Ig0BHFB",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/EfyBArAtexA1NZPFxe1SWY"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-16T13:51:00.614Z",
+            "createdAt": "2025-08-23T06:38:58.825Z"
+          },
+          {
+            "id": "cmffgcut70bkfpcgb1i1npqvd",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-09-12T14:30:00.000Z",
+            "endDateTime": "2025-09-30T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/FUwoKmYhwIr6W9NDRVC7LO",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/FUwoKmYhwIr6W9NDRVC7LO"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-09-16T13:51:04.162Z",
+            "createdAt": "2025-09-11T13:36:51.436Z"
+          },
+          {
+            "id": "cmfhtnsz60upnpcemsw8my5e6",
+            "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+            "startDateTime": "2025-10-03T14:30:00.000Z",
+            "endDateTime": "2025-10-10T14:30:00.000Z",
+            "Topics": [
+              "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GIVuo5xeZy5DkuR6R9OPMo",
+              "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/GIVuo5xeZy5DkuR6R9OPMo"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Special%20Gopal%20Sir%20Presentation.pdf",
+            "updatedAt": "2025-09-30T11:12:19.653Z",
+            "createdAt": "2025-09-13T05:24:49.636Z"
+          }
+        ],
+        "discountedPrice": 499
+      },
+      {
+        "id": "cm8u6bvnm5y01pci0q36uy44b",
+        "title": "Renko Made Easy: Noiseless Market with Mukta Dhamankar",
+        "Batches": [
+          {
+            "id": "cm8u6lhld5zr3pci0jchichdq",
+            "bootcampId": "cm8u6bvnm5y01pci0q36uy44b",
+            "startDateTime": "2025-05-03T12:30:00.000Z",
+            "endDateTime": "2025-05-20T12:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/J1BDM7WrfU80okiGB6mFQD",
+              "classJoiningLink": "https://tfu.bio/bx-join-hichdq",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/J1BDM7WrfU80okiGB6mFQD"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-05-08T06:41:29.962Z",
+            "createdAt": "2025-03-29T12:22:14.338Z"
+          },
+          {
+            "id": "cmaf00qk81gk3pcyqlb2to50g",
+            "bootcampId": "cm8u6bvnm5y01pci0q36uy44b",
+            "startDateTime": "2025-06-05T14:30:00.000Z",
+            "endDateTime": "2025-06-30T14:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Jlv4fxy9SFt6qmkgEx4xSf",
+              "classJoiningLink": "https://tfu.bio/bx-join-2to50g"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-06-11T07:19:21.051Z",
+            "createdAt": "2025-05-08T06:41:00.521Z"
+          },
+          {
+            "id": "cmbrmcwai02lgpc9gkcy7jv8p",
+            "bootcampId": "cm8u6bvnm5y01pci0q36uy44b",
+            "startDateTime": "2025-07-08T12:30:00.000Z",
+            "endDateTime": "2025-07-31T12:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/K6ckqmXP8Rg3GHKtIBNn3U",
+              "classJoiningLink": "https://tfu.bio/join-bx-renko-trading-with-mukta"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-21T11:29:55.347Z",
+            "createdAt": "2025-06-11T07:19:15.818Z"
+          },
+          {
+            "id": "cmd8v50ld04xwpcpl4qmbh083",
+            "bootcampId": "cm8u6bvnm5y01pci0q36uy44b",
+            "startDateTime": "2025-08-13T13:30:00.000Z",
+            "endDateTime": "2025-08-25T13:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/C4bz5ReX1hBJ3HdY2tU1Px",
+              "classJoiningLink": "https://tfu.bio/bx-join-mbh083",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/C4bz5ReX1hBJ3HdY2tU1Px"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-13T10:45:33.815Z",
+            "createdAt": "2025-07-18T13:36:52.003Z"
+          },
+          {
+            "id": "cme6q5s5a03cupc275g52ymvv",
+            "bootcampId": "cm8u6bvnm5y01pci0q36uy44b",
+            "startDateTime": "2025-09-12T13:30:00.000Z",
+            "endDateTime": "2025-10-03T13:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/Dmc357sE4DyLZksxYuKx02?mode=ac_t",
+              "classJoiningLink": "https://tfu.bio/bx-join-52ymvv",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/FqPRMi0yR1RGHRRoWfeUcI?mode=ac_t"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-08-13T08:11:24.789Z",
+            "createdAt": "2025-08-11T06:21:39.631Z"
+          }
+        ],
+        "discountedPrice": 3999
+      },
+      {
+        "id": "cmcdk32zj05fdpccn7a1njizj",
+        "title": "The Ultimate Bootcamp on Swing Trading with Jaspreet Singh",
+        "Batches": [
+          {
+            "id": "cmcdkieb305umpcbrn7cm5t0x",
+            "bootcampId": "cmcdk32zj05fdpccn7a1njizj",
+            "startDateTime": "2025-07-01T13:30:00.000Z",
+            "endDateTime": "2025-07-20T13:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/HlI73hPC34oAAyTWWw3sRQ",
+              "classJoiningLink": "https://tfu.bio/join-bx-swing-with-jaspreet?src=bxlms",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/HlI73hPC34oAAyTWWw3sRQ"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-14T14:07:07.606Z",
+            "createdAt": "2025-06-26T15:58:29.089Z"
+          },
+          {
+            "id": "cmcpwlcy205l8pcezaalt8hik",
+            "bootcampId": "cmcdk32zj05fdpccn7a1njizj",
+            "startDateTime": "2025-07-14T14:30:00.000Z",
+            "endDateTime": "2025-07-29T14:30:00.000Z",
+            "Topics": [
+              ""
+            ],
+            "active": true,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/ELM9orYEJHV1msjI3j32gL",
+              "classJoiningLink": "https://tfu.bio/bx-join-lt8hik",
+              "tokenWhatsappGroup": "https://chat.whatsapp.com/ELM9orYEJHV1msjI3j32gL"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2025-07-23T14:25:01.803Z",
+            "createdAt": "2025-07-05T07:09:56.794Z"
+          }
+        ],
+        "discountedPrice": 4999
+      }
+    ],
+    "Batches": [
+      {
+        "id": "clyrcdrw7003dpcbw3kciuvi3",
+        "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+        "startDateTime": "2024-09-09T13:30:00.000Z",
+        "endDateTime": "2024-10-17T07:01:00.000Z",
+        "Topics": [
+          "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/B5F1hzrSAT47xjbZfGlQSH"
+        },
+        "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Abhishek%20Sys%20independence%20day%20%281%29.pdf",
+        "updatedAt": "2024-10-08T11:50:36.614Z",
+        "createdAt": "2024-07-18T14:03:50.226Z"
+      },
+      {
+        "id": "cm0nw9i9j00i1pce9bnp5lqlr",
+        "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+        "startDateTime": "2024-09-04T13:25:00.000Z",
+        "endDateTime": "2024-09-05T13:28:00.000Z",
+        "Topics": [
+          "The ultimate course on Intraday Scalping,Private Live Trading-Every Wednesday,Live Doubt Session -Every Monday"
+        ],
+        "active": false,
+        "metaData": null,
+        "brochurePdf": null,
+        "updatedAt": "2024-09-04T13:28:43.430Z",
+        "createdAt": "2024-09-04T13:28:43.430Z"
+      },
+      {
+        "id": "cm1w7s8mf2k4qpc56fgamoytf",
+        "bootcampId": "clrwb7zya07tvpc20734hihvt",
+        "startDateTime": "2024-10-28T09:00:00.000Z",
+        "endDateTime": "2024-11-30T13:30:00.000Z",
+        "Topics": [
+          "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/LSzQdly9gDJ1YW6tNzKEtD",
+          "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxdirect"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2024-11-09T13:26:29.936Z",
+        "createdAt": "2024-10-05T13:53:04.920Z"
+      },
+      {
+        "id": "cm7qb258g01dcpcxb862kuul4",
+        "bootcampId": "clrwb7zya07tvpc20734hihvt",
+        "startDateTime": "2025-04-18T13:30:00.000Z",
+        "endDateTime": "2025-05-23T13:30:00.000Z",
+        "Topics": [
+          "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/EYSfYlSBks74m5GGoiXzbB",
+          "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/DTiI69ywQI53slfxt8pyoI"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-04-20T08:37:12.851Z",
+        "createdAt": "2025-03-01T14:36:22.891Z"
+      },
+      {
+        "id": "cm9zb606f20e6pcc61eoorhdz",
+        "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+        "startDateTime": "2025-05-11T13:30:00.000Z",
+        "endDateTime": "2025-07-31T13:30:00.000Z",
+        "Topics": [
+          "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/CM6FkLz5Cgt2iZK4qwF6HZ",
+          "classJoiningLink": "https://tfu.bio/join-bx-advance-adjustment-with-chirag?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/DzE59jVWguS5AMdpIb42g9"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-07-25T11:23:53.780Z",
+        "createdAt": "2025-04-27T07:08:43.224Z"
+      },
+      {
+        "id": "cmagflc8f0uxppcg5a3rk27x5",
+        "bootcampId": "cm10qbpmz0z8apc7d9ksbcebc",
+        "startDateTime": "2025-06-08T14:30:00.000Z",
+        "endDateTime": "2025-06-30T14:30:00.000Z",
+        "Topics": [
+          "Introduction to Stock Market & Tools,Rapid Ravan (Scalping Strategy),Vishwakarma's Tools (Custom Stock Screener),Sudarshan Chakra Strategy (Triple  Booster Strategy),Sudarshan Chakra Strategy (Triple  Booster Strategy),Chakravyuh Strategy (Sideways Market),Live Market Trading,Kurukshetra Plan (Risk Management Strategy),Live Market Trading,Live Doubt Session"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/Jd2eZ6Y9iQRAoRoHA7pxA6",
+          "classJoiningLink": "https://tfu.bio/join-bx-option-with-gopal?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/Jd2eZ6Y9iQRAoRoHA7pxA6"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-07-03T14:17:19.466Z",
+        "createdAt": "2025-05-09T06:44:42.144Z"
+      },
+      {
+        "id": "cmc0er2ja2f6zpclg9f597zg4",
+        "bootcampId": "clrwb7zya07tvpc20734hihvt",
+        "startDateTime": "2025-07-10T12:30:00.000Z",
+        "endDateTime": "2025-08-07T13:30:00.000Z",
+        "Topics": [
+          "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/HtUgPv8xei93Ob6JZaMlXC",
+          "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/L8rKyS4Ja4155yUO9gw9GS"
+        },
+        "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Chirag+Sir+Presentation.pdf",
+        "updatedAt": "2025-07-16T12:53:21.670Z",
+        "createdAt": "2025-06-17T10:56:15.745Z"
+      },
+      {
+        "id": "cmcbwelan003rpcvmdn2on23f",
+        "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+        "startDateTime": "2025-07-20T13:30:00.000Z",
+        "endDateTime": "2025-07-30T13:30:00.000Z",
+        "Topics": [
+          "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/HzeA8S4XRNm0WzJK0OfJZA",
+          "classJoiningLink": "https://tfu.bio/join-bx-scalping-with-pankaj?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/HzeA8S4XRNm0WzJK0OfJZA"
+        },
+        "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Pankaj%2BSahu%2BMASTERCLASS%2B%281%29.pdf",
+        "updatedAt": "2025-08-02T14:36:43.694Z",
+        "createdAt": "2025-06-25T11:55:54.559Z"
+      },
+      {
+        "id": "cmcdkieb305umpcbrn7cm5t0x",
+        "bootcampId": "cmcdk32zj05fdpccn7a1njizj",
+        "startDateTime": "2025-07-01T13:30:00.000Z",
+        "endDateTime": "2025-07-20T13:30:00.000Z",
+        "Topics": [
+          ""
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/HlI73hPC34oAAyTWWw3sRQ",
+          "classJoiningLink": "https://tfu.bio/join-bx-swing-with-jaspreet?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/HlI73hPC34oAAyTWWw3sRQ"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-07-14T14:07:07.606Z",
+        "createdAt": "2025-06-26T15:58:29.089Z"
+      },
+      {
+        "id": "cmcn9jvra0hnqpc422g2jfvl4",
+        "bootcampId": "cluf6aeq901dlpcl0pn3flbqc",
+        "startDateTime": "2025-08-20T13:30:00.000Z",
+        "endDateTime": "2026-02-20T13:30:00.000Z",
+        "Topics": [
+          "Short Straddle Managment,Short Strangle Management,Ratio Trade (1:1 / 1:2) - Call,Covered Call CSP - Collar,Diagonal Spread,Interconversion of Trades,Super Trend - Indicator ,RSI - Indicator "
+        ],
+        "active": true,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/CP1P7fzPmf6EclSEubkzkt?mode=ems_copy_t",
+          "classJoiningLink": "https://tfu.bio/join-bx-advance-adjustment-with-chirag?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/DwyGdgHuyPd47CW4pI73I0?mode=ac_t"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-09-05T08:37:00.175Z",
+        "createdAt": "2025-07-03T10:49:24.342Z"
+      },
+      {
+        "id": "cmcpwlcy205l8pcezaalt8hik",
+        "bootcampId": "cmcdk32zj05fdpccn7a1njizj",
+        "startDateTime": "2025-07-14T14:30:00.000Z",
+        "endDateTime": "2025-07-29T14:30:00.000Z",
+        "Topics": [
+          ""
+        ],
+        "active": true,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/ELM9orYEJHV1msjI3j32gL",
+          "classJoiningLink": "https://tfu.bio/bx-join-lt8hik",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/ELM9orYEJHV1msjI3j32gL"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-07-23T14:25:01.803Z",
+        "createdAt": "2025-07-05T07:09:56.794Z"
+      },
+      {
+        "id": "cmd5ypa030ze6pcjswyu807kj",
+        "bootcampId": "clrwb7zya07tvpc20734hihvt",
+        "startDateTime": "2025-08-03T12:52:00.000Z",
+        "endDateTime": "2025-09-04T14:30:00.000Z",
+        "Topics": [
+          "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/CWUeDnmrSUUIPqLVuC2bvi?mode=r_c",
+          "classJoiningLink": "https://tfu.bio/join-bx-options-trading-chirag?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/JqUXcYbPOLo9VtdjNDXeME"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-08-11T17:56:08.745Z",
+        "createdAt": "2025-07-16T12:53:17.646Z"
+      },
+      {
+        "id": "cme6q5s5a03cupc275g52ymvv",
+        "bootcampId": "cm8u6bvnm5y01pci0q36uy44b",
+        "startDateTime": "2025-09-12T13:30:00.000Z",
+        "endDateTime": "2025-10-03T13:30:00.000Z",
+        "Topics": [
+          ""
+        ],
+        "active": true,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/Dmc357sE4DyLZksxYuKx02?mode=ac_t",
+          "classJoiningLink": "https://tfu.bio/bx-join-52ymvv",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/FqPRMi0yR1RGHRRoWfeUcI?mode=ac_t"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-08-13T08:11:24.789Z",
+        "createdAt": "2025-08-11T06:21:39.631Z"
+      },
+      {
+        "id": "cmepp6okw0d9ipc0xcluo6re0",
+        "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+        "startDateTime": "2025-09-16T13:30:00.000Z",
+        "endDateTime": "2025-09-24T13:30:00.000Z",
+        "Topics": [
+          "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/JpAvTti2ZD30ou2Ryeypa8?mode=ems_copy_c",
+          "classJoiningLink": "https://tfu.bio/join-bx-scalping-with-pankaj?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/J4sI29XWOF2D6gdOAW6mei"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-09-19T13:09:15.115Z",
+        "createdAt": "2025-08-24T13:01:59.393Z"
+      },
+      {
+        "id": "cmeu26ttk0a6zpcbhygx434ml",
+        "bootcampId": "cltagb6w200yxpcsuca035nv4",
+        "startDateTime": "2025-10-03T13:30:00.000Z",
+        "endDateTime": "2025-10-30T18:00:00.000Z",
+        "Topics": [
+          "Study Market Profile ,Trading, Entries, Exits,Order flow construction, Types of Delta ,Secret Strategies ,Order Flow Analysis,Live Session,Live Session,Doubt Session,Introductory Session"
+        ],
+        "active": false,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/GucM49fvq7FAprWg1GCUpJ",
+          "classJoiningLink": "https://tfu.bio/join-bx-holy-grail-with-balakrishna?src=bxlms",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/IiSgng8Jhm38aP0e3juQLK"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-10-09T16:12:35.961Z",
+        "createdAt": "2025-08-27T14:17:05.897Z"
+      },
+      {
+        "id": "cmfo2gnty0lfxpcnj1qdqpjg7",
+        "bootcampId": "clrwb7zya07tvpc20734hihvt",
+        "startDateTime": "2025-10-10T13:30:00.000Z",
+        "endDateTime": "2025-11-17T13:30:00.000Z",
+        "Topics": [
+          "Adjustment and Simulation,Double call and Double Put Strategy,Unique Setup on Bank Nifty,Options Buying Based Setup,Stock Options Strategy ,All sell Strategy and Adjustment,Wealth Creation using Nifty,Questions & Answers,Live Trading Class,Basics of options,Special Adjustment Multiple Lots ,Doubts and Worst Case Simulation"
+        ],
+        "active": true,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/Hszf9Gutfhp17jRh1fqeF5?mode=ems_copy_t",
+          "classJoiningLink": "https://tfu.bio/bx-join-dqpjg7",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/Hszf9Gutfhp17jRh1fqeF5?mode=ems_copy_t"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-10-08T13:00:16.576Z",
+        "createdAt": "2025-09-17T14:17:49.975Z"
+      },
+      {
+        "id": "cmfsblydz29mepcnt0yfzwxpm",
+        "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+        "startDateTime": "2025-09-22T13:30:00.000Z",
+        "endDateTime": "2025-10-04T13:30:00.000Z",
+        "Topics": [
+          "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+        ],
+        "active": false,
+        "metaData": {
+          "classJoiningLink": "https://tfu.bio/bx-join-fzwxpm"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-09-22T12:07:43.222Z",
+        "createdAt": "2025-09-20T13:44:58.185Z"
+      },
+      {
+        "id": "cmfv303153hi2pcntvix6wc5p",
+        "bootcampId": "clrluxl5101a8pcei3jgvtxi8",
+        "startDateTime": "2025-10-05T11:31:00.000Z",
+        "endDateTime": "2025-10-24T11:30:00.000Z",
+        "Topics": [
+          "Live Doubt Session 1,Live Doubt session 2,Live Doubt Session 3,Live Private Trading 1,Live Private Trading 2,Live Private Trading 3,Live Private Trading 4,Live Private Trading 5,Live Private Trading 6,Live Private Trading 7,Live Private Trading 8,Live Doubt Session - 4,Live Doubt Session 5,Live doubt session 6,Live doubt session 7,Live Doubt Session 8,1. Access the Loren Setup - 1,Access the Loren Setup - 2,Scalping with Loren Setup, Intraday Trading & Stock Selection.,Gamma Blast Strategy,Summarizing the bootcamp"
+        ],
+        "active": true,
+        "metaData": {
+          "whatsappGroup": "https://chat.whatsapp.com/Ia1WiKEbJDbDD4XK5pyQLn",
+          "classJoiningLink": "https://tfu.bio/bx-join-x6wc5p",
+          "tokenWhatsappGroup": "https://chat.whatsapp.com/Ia1WiKEbJDbDD4XK5pyQLn"
+        },
+        "brochurePdf": null,
+        "updatedAt": "2025-10-07T13:42:24.121Z",
+        "createdAt": "2025-09-22T12:07:19.370Z"
+      }
+    ]
+  },
+  "message": "findOne"
+}
+
+" where inside "  "bootcamps": [",          "id"     is present.
+now i have the id "clrluxl5101a8pcei3jgvtxi8" and if this id "clrluxl5101a8pcei3jgvtxi8" is there inside the id's when i transerse inside the bootcamp array.....if yes then i will be able to access the loren setup and whatsapp page link otherwise not....
+Please take measurable and clear steps and do ask me if any issue faced while redesigning or building code. 

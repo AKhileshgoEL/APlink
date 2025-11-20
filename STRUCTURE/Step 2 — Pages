@@ -1,0 +1,13 @@
+🔹 Step 2 — Pages
+
+Then send the full LorenLanding page folder:
+
+src/pages/LorenLanding/LorenLanding.jsx
+
+src/pages/LorenLanding/useLorenForm.js
+
+src/pages/LorenLanding/apiService.js
+
+src/pages/LorenLanding/earlierlorenlanding.jsx (optional — I will help remove if unnecessary)
+
+This lets me clean the API logic, form flow, and integrations.

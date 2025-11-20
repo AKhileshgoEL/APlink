@@ -1,0 +1,11 @@
+Only after everything else:
+
+package.json
+
+vite.config.js
+
+tailwind.config.js
+
+eslint.config.js
+
+I’ll optimize dependencies and remove unused packages.

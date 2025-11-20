@@ -1,0 +1,161 @@
+{
+  "data": {
+    "id": "cmcn5y70t0fozpc417jmu1s9a",
+    "email": "support@bootcampx.in",
+    "name": "TFU Akhilesh",
+    "age": null,
+    "bio": null,
+    "city": null,
+    "referralCode": "0sySA",
+    "photo": null,
+    "phone": "9988819733",
+    "countryCode": "+91",
+    "categoryId": null,
+    "metaData": {
+      "lastLogin": "2025-10-10T16:12:52.274Z",
+      "firstLogin": "2025-07-03T09:15:21.544Z"
+    },
+    "crmBlocked": false,
+    "isPhoneVerified": false,
+    "isEmailVerified": false,
+    "isBanned": false,
+    "isVIP": false,
+    "vipExpiry": null,
+    "isGoogleCalendarEnabled": false,
+    "isAstroLearnGoldMember": false,
+    "isTradewiseGoldMember": false,
+    "bankInformationId": null,
+    "type": "STUDENT",
+    "unlockedFeaturesId": null,
+    "lastActive": null,
+    "createdAt": "2025-07-03T09:08:33.678Z",
+    "updatedAt": "2025-10-10T16:12:52.277Z",
+    "achievements": null,
+    "Source": null,
+    "LeadPoachingDate": null,
+    "bootcamps": [
+      {
+        "id": "clnn78sh107ybkv1j6tlveewj",
+        "title": "System Trading Bootcamp With Abhishek Bansal ",
+        "Batches": [
+          {
+            "id": "clunsjuqp00j8pcj4gg30d4e4",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-05-04T13:30:00.000Z",
+            "endDateTime": "2024-06-06T13:30:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup",
+              "Basic Of Option , Strike Price Selection and Option chain analysis",
+              "Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy",
+              "Breakout Trading",
+              "Intro to indicator ",
+              "Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/LT0nJUvnzFTKGvF6Ucckbr"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Copy+of+System+new+content+%282%29.pdf",
+            "updatedAt": "2024-10-08T11:51:34.432Z",
+            "createdAt": "2024-04-06T07:46:33.697Z"
+          },
+          {
+            "id": "clvwgefh30hy0pct53eky86d8",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-06-10T13:30:00.000Z",
+            "endDateTime": "2024-07-11T13:30:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/GpGmL1oYk2k0ijYJoenjyG"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:51:53.795Z",
+            "createdAt": "2024-05-07T13:56:03.159Z"
+          },
+          {
+            "id": "clxai1xjg1943pczdrrbuszbl",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-07-08T13:30:00.000Z",
+            "endDateTime": "2024-08-08T13:30:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/ILSTB32frJx4IYhaHNFUxD"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:52:21.285Z",
+            "createdAt": "2024-06-11T14:30:48.076Z"
+          },
+          {
+            "id": "clyeipmo70h25pcmeb0iej54x",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-08-09T13:30:00.000Z",
+            "endDateTime": "2024-09-19T07:00:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/BNjpN0VcvDh46ujzB4JzMq"
+            },
+            "brochurePdf": null,
+            "updatedAt": "2024-10-08T11:49:48.686Z",
+            "createdAt": "2024-07-09T14:40:00.775Z"
+          },
+          {
+            "id": "clyrcdrw7003dpcbw3kciuvi3",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-09-09T13:30:00.000Z",
+            "endDateTime": "2024-10-17T07:01:00.000Z",
+            "Topics": [
+              "Oi data reading , Long build up short buildup , Long Unwinding Short Buildup,Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator"
+            ],
+            "active": false,
+            "metaData": {
+              "whatsappGroup": "https://chat.whatsapp.com/B5F1hzrSAT47xjbZfGlQSH"
+            },
+            "brochurePdf": "https://tfu-media.s3.ap-south-1.amazonaws.com/bootcamps/cohorts/Abhishek%20Sys%20independence%20day%20%281%29.pdf",
+            "updatedAt": "2024-10-08T11:50:36.614Z",
+            "createdAt": "2024-07-18T14:03:50.226Z"
+          },
+          {
+            "id": "cm1dlvu4c2xy2pc106g8xjrmf",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-09-22T13:25:00.000Z",
+            "endDateTime": "2024-09-22T17:24:00.000Z",
+            "Topics": [
+              "Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator,Live Class ,Live Class ,Oi Data Reading,Candle Patterns & Price Action Patterns ,Live Class ,Live Class "
+            ],
+            "active": true,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-09-22T13:20:17.359Z",
+            "createdAt": "2024-09-22T13:20:10.044Z"
+          },
+          {
+            "id": "cm1hhzc282wyqpc8ceazm27j7",
+            "bootcampId": "clnn78sh107ybkv1j6tlveewj",
+            "startDateTime": "2024-09-25T06:41:00.000Z",
+            "endDateTime": "2024-09-30T08:41:00.000Z",
+            "Topics": [
+              "Basic Of Option , Strike Price Selection and Option chain analysis,Stochastics Strategy , RSI Strategy , Trendline Strategy and Moving Average Strategy,Breakout Trading,Intro to indicator ,Continuation of indicator,Live Class ,Live Class ,tests ,Oi Data Reading,Candle Patterns & Price Action Patterns ,Live Class ,Live Class "
+            ],
+            "active": false,
+            "metaData": null,
+            "brochurePdf": null,
+            "updatedAt": "2024-09-25T06:41:59.505Z",
+            "createdAt": "2024-09-25T06:41:59.505Z"
+          }
+        ],
+        "discountedPrice": 3999
+      },
+  },
+  "message": "findOne"
+}
+Ask AI
+

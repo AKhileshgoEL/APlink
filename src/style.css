@@ -1,0 +1,9 @@
+/* Extra styles you can customize */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+button {
+  font-weight: 600;
+  cursor: pointer;
+}

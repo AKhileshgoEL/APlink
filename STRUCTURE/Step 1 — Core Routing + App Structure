@@ -1,0 +1,13 @@
+order
+🔹 Step 1 — Core Routing + App Structure
+
+src/App.jsx
+
+src/main.jsx
+
+src/index.css
+
+src/App.css (if used)
+
+These define the app structure, routes, and global styles.
+I need these first so the whole project flow becomes clear.
