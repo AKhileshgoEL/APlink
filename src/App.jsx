@@ -1,164 +1,258 @@
-// import { useState } from 'react';
-// import { ChevronDown } from 'lucide-react';
-
-// // Import your logo images
-// import dhanLogo from './assets/Dhan_logo.jpeg';
-// import deltaLogo from './assets/Delta_Exchange_logo.png';
+// import React, { useState } from 'react';
+// import LorenSetupCard from './components/LorenSetupCard';
+// import LMSAccessCard from './components/LMSAccessCard';
+// import FAQSection from './components/FAQSection';
 
 // export default function App() {
-//   // Correct state variables
-//   const [openStep1, setOpenStep1] = useState(false);
-//   const [openStep2, setOpenStep2] = useState(false);
-
-//   const apps = [
-//     {
-//       name: 'Dhan',
-//       icon: dhanLogo,
-//       link: 'https://join.dhan.co/?invite=RBEYP85374~OPT',
-//       description: 'Stock & Options Trading Platform',
-//     },
-//     {
-//       name: 'Delta Exchange',
-//       icon: deltaLogo,
-//       link: 'https://india.delta.exchange/?code=Pankajsahu',
-//       description: 'Crypto & Forex Derivatives Platform',
-//     },
-//   ];
+//   const [playVideo, setPlayVideo] = useState(false);
 
 //   return (
-//     <div className="min-h-screen bg-gray-100 p-6 font-sans">
-//       <div className="max-w-3xl mx-auto space-y-8">
-//         {/* Header */}
-//         <h1 className="text-3xl font-bold text-center text-gray-800">
-//           📚 Trading Resource Hub
-//         </h1>
-
-//         {/* Step 1 – Apps to Install */}
-//         <div className="bg-white rounded-2xl shadow p-6">
-//           <h2
-//             className="text-xl font-semibold flex items-center justify-between cursor-pointer"
-//             onClick={() => setOpenStep1(!openStep1)}
+//     <div className="min-h-screen bg-gradient-to-br from-[#0B132B] via-[#1C2541] to-[#3A506B] text-white font-sans">
+//       {/* 🔶 TOP BAR WITH SUPPORT + GOOGLE FORM + BRANDING */}
+//       <div className="w-full flex justify-between items-center px-6 py-4">
+//         {/* LEFT SECTION → Support + Google Form */}
+//         <div className="flex items-center gap-4">
+//           {/* 📞 Support Button */}
+//           <a
+//             href="tel:9877582083"
+//             className="bg-yellow-400 text-gray-900 px-5 py-2 rounded-full font-semibold shadow-md hover:bg-yellow-300 transition"
 //           >
-//             <span>Step 1 – Apps to Install</span>
-//             <ChevronDown
-//               className={`transition-transform ${
-//                 openStep1 ? 'rotate-180' : 'rotate-0'
-//               }`}
-//             />
-//           </h2>
+//             📞 Support: 9877582083
+//           </a>
 
-//           {openStep1 && (
-//             <div className="mt-4 space-y-4">
-//               {/* Description */}
-//               <p className="text-sm text-gray-600 mb-2">
-//                 We request you all to open the account with the same broker as
-//                 us, so that your strike price and premium will be the same.
-//               </p>
-
-//               {/* App links */}
-//               {apps.map((app) => (
-//                 <a
-//                   key={app.name}
-//                   href={app.link}
-//                   target="_blank"
-//                   rel="noopener noreferrer"
-//                   className="flex items-center justify-between p-4 border rounded-xl hover:bg-blue-50 transition"
-//                 >
-//                   <div className="flex items-center gap-3">
-//                     <img
-//                       src={app.icon}
-//                       alt={`${app.name} logo`}
-//                       className="w-10 h-10 object-contain rounded-lg"
-//                     />
-//                     <div>
-//                       <p className="font-medium">{app.name}</p>
-//                       <p className="text-sm text-gray-500">{app.description}</p>
-//                     </div>
-//                   </div>
-//                   <span className="text-blue-600 font-medium">Install →</span>
-//                 </a>
-//               ))}
-//             </div>
-//           )}
+//           {/* 📝 Google Form Button */}
+//           <a
+//             href="https://forms.gle/yLfEve4vaL7KgYYc6"
+//             target="_blank"
+//             rel="noopener noreferrer"
+//             className="bg-blue-400 text-gray-900 px-5 py-2 rounded-full font-semibold shadow-md hover:bg-blue-500 transition"
+//           >
+//             📝 Doubt Form
+//           </a>
 //         </div>
 
-//         {/* Step 2 – Tutorials */}
-//         <div className="bg-white rounded-2xl shadow p-6">
-//           <h2
-//             className="text-xl font-semibold flex items-center justify-between cursor-pointer"
-//             onClick={() => setOpenStep2(!openStep2)}
-//           >
-//             <span>Step 2 – Installtion Guide </span>
-//             <ChevronDown
-//               className={`transition-transform ${
-//                 openStep2 ? 'rotate-180' : 'rotate-0'
-//               }`}
-//             />
-//           </h2>
+//         {/* Branding */}
+//         <div className="text-lg font-bold tracking-wide text-yellow-300">
+//           TRADEWISE
+//         </div>
+//       </div>
 
-//           {openStep2 && (
-//             <div className="mt-4 space-y-4">
-//               {/* Description */}
-//               <p className="text-sm text-gray-600 mb-2">
-//                 Kindly install the brokers accordingly and see tutorials if
-//                 facing any issue.
-//               </p>
+//       {/* MAIN WRAPPER */}
+//       <div className="max-w-4xl mx-auto px-6 py-6 space-y-10">
+//         {/* 📘 MAIN TITLE */}
+//         <h1 className="text-4xl font-extrabold text-center tracking-wide">
+//           📚 Intraday & Scalping Bootcamp
+//           <span className="text-yellow-400"> with Pankaj Sahu</span>
+//         </h1>
 
-//               {/* Tutorial links */}
-//               <div className="grid sm:grid-cols-2 gap-4">
-//                 <a
-//                   href="https://youtu.be/Jbbl7LGbMYo"
-//                   target="_blank"
-//                   rel="noopener noreferrer"
-//                   className="block bg-blue-50 hover:bg-blue-100 p-4 rounded-xl text-center"
-//                 >
-//                   🎓 How to Use Dhan
-//                 </a>
+//         {/* 🎥 VIDEO SECTION */}
+//         <div className="w-full mx-auto rounded-2xl overflow-hidden shadow-2xl border border-gray-700 relative">
+//           {/* 👉 Thumbnail BEFORE Click */}
+//           {!playVideo && (
+//             <div
+//               className="relative cursor-pointer"
+//               onClick={() => setPlayVideo(true)}
+//             >
+//               <img
+//                 src="https://img.youtube.com/vi/Jbbl7LGbMYo/maxresdefault.jpg"
+//                 alt="Intro Video"
+//                 className="w-full object-cover opacity-95"
+//               />
 
-//                 <a
-//                   href="https://www.youtube.com/watch?v=-UZKYJp2Jmo"
-//                   target="_blank"
-//                   rel="noopener noreferrer"
-//                   className="block bg-purple-50 hover:bg-purple-100 p-4 rounded-xl text-center"
-//                 >
-//                   🎓 How to Use Delta Exchange
-//                 </a>
+//               {/* Play Button Overlay */}
+//               <div className="absolute inset-0 flex items-center justify-center">
+//                 <div className="bg-white/80 rounded-full p-5 shadow-lg hover:scale-110 transition">
+//                   <span className="text-red-600 text-4xl">▶</span>
+//                 </div>
 //               </div>
 //             </div>
 //           )}
+
+//           {/* 👉 YouTube Player AFTER Click */}
+//           {playVideo && (
+//             <iframe
+//               className="w-full h-64 sm:h-96"
+//               src="https://www.youtube.com/embed/Jbbl7LGbMYo?autoplay=1"
+//               title="Bootcamp Intro Video"
+//               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+//               allowFullScreen
+//             ></iframe>
+//           )}
 //         </div>
+
+//         {/* 🔶 LMS + LOREN CARDS */}
+//         <div className="space-y-6">
+//           <LMSAccessCard />
+//           <LorenSetupCard />
+//         </div>
+
+//         {/* ❓ FAQ SECTION */}
+//         <FAQSection />
 //       </div>
 //     </div>
 //   );
 // }
-// App.jsx
+// import React, { useState } from 'react';
+// import LorenSetupCard from './components/LorenSetupCard';
+// import LMSAccessCard from './components/LMSAccessCard';
+// import FAQSection from './components/FAQSection';
 
-// import Step2Tutorials from './components/Step2Tutorials';
-// import Step3LMS from './components/Step3LMS';
-// import Step4Loren from './components/Step4Loren';
-// import Step1Apps from './components/Step1Apps';
-// import LorenLanding from './pages/LorenLanding/LorenLanding';
+// import tradewiseLogo from './assets/tradewise_logo.png';
 
 // export default function App() {
-//   return <LorenLanding />;
+//   const [playVideo, setPlayVideo] = useState(false);
+
+//   return (
+//     <div className="min-h-screen bg-white text-gray-900 font-sans">
+//       {/* 🔶 HEADER — LOGO LEFT + SUPPORT NUMBER RIGHT */}
+//       <header className="w-full flex justify-between items-center px-6 py-4 border-b border-gray-200 shadow-sm bg-white">
+//         {/* Left → Logo */}
+//         <img
+//           src={tradewiseLogo}
+//           alt="Tradewise Logo"
+//           className="w-28 object-contain"
+//         />
+
+//         {/* Right → Support Number */}
+//         <a
+//           href="tel:9877582083"
+//           className="bg-yellow-400 text-gray-900 px-5 py-2 rounded-full font-semibold shadow hover:bg-yellow-500 transition"
+//         >
+//           📞 9877582083
+//         </a>
+//       </header>
+
+//       {/* MAIN CONTENT WRAPPER */}
+//       <div className="max-w-4xl mx-auto px-6 py-8 space-y-10">
+//         {/* 📘 HEADING (2 lines) */}
+//         <div className="text-center">
+//           <h1 className="text-4xl font-bold leading-tight">
+//             Intraday & Scalping
+//           </h1>
+//           <h2 className="text-3xl font-semibold mt-1 text-yellow-600">
+//             with Pankaj Sahu
+//           </h2>
+//         </div>
+
+//         {/* 🎥 VIDEO SECTION */}
+//         <div className="w-full mx-auto rounded-2xl overflow-hidden shadow-xl border border-gray-300 relative">
+//           {/* Thumbnail BEFORE clicking */}
+//           {!playVideo && (
+//             <div
+//               className="relative cursor-pointer"
+//               onClick={() => setPlayVideo(true)}
+//             >
+//               <img
+//                 src="https://img.youtube.com/vi/Jbbl7LGbMYo/maxresdefault.jpg"
+//                 alt="Intro Video Thumbnail"
+//                 className="w-full object-cover"
+//               />
+
+//               {/* Circular Play Button */}
+//               <div className="absolute inset-0 flex items-center justify-center">
+//                 <div className="bg-white rounded-full p-6 shadow-lg hover:scale-110 transition">
+//                   <span className="text-red-600 text-4xl">▶</span>
+//                 </div>
+//               </div>
+//             </div>
+//           )}
+
+//           {/* Video AFTER clicking */}
+//           {playVideo && (
+//             <iframe
+//               className="w-full h-64 sm:h-96"
+//               src="https://www.youtube.com/embed/Jbbl7LGbMYo?autoplay=1"
+//               title="Bootcamp Intro Video"
+//               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
+//               allowFullScreen
+//             ></iframe>
+//           )}
+//         </div>
+
+//         {/* 🔶 CARDS SECTION (Redesigned inside component files) */}
+//         <div className="space-y-6">
+//           <LMSAccessCard />
+//           <LorenSetupCard />
+//         </div>
+
+//         {/* ❓ FAQ SECTION */}
+//         <FAQSection />
+//       </div>
+//     </div>
+//   );
 // }
-import React from 'react';
+import React, { useState } from 'react';
 import LorenSetupCard from './components/LorenSetupCard';
 import LMSAccessCard from './components/LMSAccessCard';
+import DoubtFormCard from './components/DoubtFormCard';
+import FAQSection from './components/FAQSection';
+
+import tradewiseLogo from './assets/tradewise_logo.png';
 
 export default function App() {
+  const [playVideo, setPlayVideo] = useState(false);
+
   return (
-    <div className="min-h-screen bg-gray-900 text-white p-6 font-sans">
-      <div className="max-w-3xl mx-auto space-y-6">
-        <h1 className="text-3xl font-bold text-center">
-          📚 Trading Resource Hub
-        </h1>
+    <div className="min-h-screen bg-white text-gray-900 font-sans">
+      {/* HEADER */}
+      <header className="w-full flex justify-between items-center px-6 py-2 border-b border-gray-200 shadow-sm bg-white">
+        <img src={tradewiseLogo} alt="Tradewise Logo" className="w-20" />
 
-        {/* LMS Card */}
-        <LMSAccessCard />
+        <a
+          href="tel:9877582083"
+          className="bg-yellow-400 text-gray-900 px-3 py-1 rounded-full font-semibold shadow hover:bg-yellow-500 transition"
+        >
+          📞 9877582083
+        </a>
+      </header>
 
-        {/* Loren Setup Card */}
-        <LorenSetupCard />
+      {/* MAIN CONTENT */}
+      <div className="max-w-4xl mx-auto px-5 py-3 space-y-3">
+        {/* HEADING */}
+        <div className="text-center">
+          <h1 className="text-4xl font-bold leading-tight">
+            Intraday & Scalping
+          </h1>
+          <h2 className="text-3xl font-semibold mt-1 text-yellow-600">
+            with Pankaj Sahu
+          </h2>
+        </div>
+
+        {/* VIDEO SECTION */}
+        <div className="w-full mx-auto rounded-2xl overflow-hidden shadow-xl border border-gray-300 relative">
+          {!playVideo ? (
+            <div
+              className="relative cursor-pointer"
+              onClick={() => setPlayVideo(true)}
+            >
+              <img
+                src="https://img.youtube.com/vi/Jbbl7LGbMYo/maxresdefault.jpg"
+                className="w-full object-cover"
+              />
+              <div className="absolute inset-0 flex items-center justify-center">
+                <div className="bg-white rounded-full p-6 shadow-lg hover:scale-110 transition">
+                  <span className="text-red-600 text-4xl">▶</span>
+                </div>
+              </div>
+            </div>
+          ) : (
+            <iframe
+              className="w-full h-64 sm:h-96"
+              src="https://www.youtube.com/embed/Jbbl7LGbMYo?autoplay=1"
+              allowFullScreen
+            ></iframe>
+          )}
+        </div>
+
+        {/* CARDS SECTION */}
+        <div className="space-y-3">
+          <LMSAccessCard />
+          <LorenSetupCard />
+          <DoubtFormCard /> {/* 👈 NEW DOUBT FORM CARD ADDED */}
+        </div>
+
+        {/* FAQ SECTION */}
+        <FAQSection />
       </div>
     </div>
   );
